@@ -1,1 +1,1 @@
-# Cousera-Machine-Learning-Capstone
+# Coursera-Machine-Learning-Capstone
